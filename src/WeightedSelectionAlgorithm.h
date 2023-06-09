@@ -6,11 +6,9 @@
  */
 class WeightedSelectionAlgorithm {
 
-  // TODO: implement algorithm
 public:
-  WeightedSelectionAlgorithm(){};
-  virtual ~WeightedSelectionAlgorithm(){};
+  WeightedSelectionAlgorithm()= default;
+  virtual ~WeightedSelectionAlgorithm()= default;
 
   int weightedSelectionAlgorithm(std::vector<Element> &elements, double q); 
-  // you can add additional functions if you need here:
 };
