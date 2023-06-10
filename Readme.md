@@ -12,7 +12,7 @@ siehe Code
 ## Aufgabe 3
 
 Wir haben die steps auf 25 beschränkt, da uns sonst der Arbeitsspeicher ausgeht.
-![Image](./images/plot.png)
+![Image](./gnuplot/random.png)
 
 ## Aufgabe 4
 
